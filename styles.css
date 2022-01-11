@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    margin: 10px 10px;
+    margin: 2em 2em;
 }
 
 h1 {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
     font-size: 40px;
-    margin-left: 150px;
+    margin-left: 2em;
 }
 
 h2 {
@@ -36,6 +36,8 @@ p {
 }
 
 img {
+    max-width: 100%;
+    height: auto;
     margin-bottom: 15px;
 }
 
@@ -48,7 +50,7 @@ a {
 
 .container {
     border: solid 1px grey;
-    margin: 50px 150px 50px 150px;
+    margin: 3em 5em 3em 5em;
 }
 
 .push-container {
